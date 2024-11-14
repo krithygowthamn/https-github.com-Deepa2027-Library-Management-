@@ -10,7 +10,8 @@
 # PACKAGE DIAGRAM :
 ![image](https://github.com/user-attachments/assets/85502106-02f2-40cb-aff6-406f77376fa1)
 # CLASS DIAGRAM :
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/49aa7ef3-9620-4114-bacb-cd32217ccfbe)
+
 # RESULT:
 Thus The Library Management System project was executed and the output was verified.
 
